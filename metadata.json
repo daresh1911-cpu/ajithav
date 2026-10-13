@@ -1,0 +1,6 @@
+{
+  "name": "Astraea — SDG 5 Women Entrepreneurship Launchpad",
+  "description": "Interactive launchpad advancing UN SDG 5 (Gender Equality) with AI business blueprint synthesis, non-dilutive grant matcher, and micro-venture financial simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
